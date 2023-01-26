@@ -11,7 +11,7 @@
 - Hist
 - Correlation 
 - Linearization using Log
--Scaling [Min- Max , Z-Score , Robust ]
+- Scaling [Min- Max , Z-Score , Robust ]
 
 
 
